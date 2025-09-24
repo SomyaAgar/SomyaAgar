@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @SomyaAgar
-- 😄 I'm a Software Engineer with a passion of exploring and learning new technologies.
-- 📊 **Data Analysis & Machine Learning:** Python, Pandas, NumPy, scikit-learn, Matplotlib, Seaborn  
-- ☁️ **Cloud Technologies:** AWS
+- 👋 Hi, I’m @Somya Agarwal.
+- 😄 I'm a AI/ML Engineer with a passion of exploring and learning Generative AI, Machine Learning and Deep Learning. Programming: Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Streamlit), SQL
 
-### 🚀 A bit about me:
-- 👀 I’m interested in Data Science, Data Analytics, and Data Visualization
-- 🌱 I’m currently learning about languages and tools like Python, Power BI, SQL that are essentials of Machine Learning and Data Science Concepts.
-- 💞️ I’m looking to collaborate on interesting **open-source projects** or innovative **tech challenges**. 
-- 📫 How to reach me: [email] somyaagar2001@gmal.com | [LinkedIn] www.linkedin.com/in/somya-agarwal-724b9030a
+#### Skills:
+- **ML & AI:** Regression, Classification, Clustering, NLP, Feature Engineering, Model Deployment, Hyperparameter Tuning, Exploratory Data Analysis & Visualization
+- **Generative AI & LLMs:** LangChain, LangGraph, HuggingFace, RAG Systems, Vector Databases, LLM Integration (OpenAI APIs)
+- **Platforms:** PostgreSQL, MongoDB, MySQL
+- **Other Skills:** AWS, Data Analysis and Visualization -Power BI, Excel
+
+- 📫 How to reach me: [email] somyaagar2001@gmal.com | [LinkedIn] https://www.linkedin.com/in/somya-agarwal-engg/
